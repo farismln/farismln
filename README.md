@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=I+am+faris%2C+security+researcher" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&center=true&width=435&lines=I+am+faris%2C+security+researcher" width="100%" />
 <br><br>
 <pre>
     💼 Independent Security Researcher • Web3
