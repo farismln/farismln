@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/twitter-0a66c2)](https://x.com/0xfrsmln)
 [![](https://img.shields.io/badge/sherlock-8A2BE2)](https://audits.sherlock.xyz/watson/farismaulana)
-[![](https://img.shields.io/badge/code4rena-blue)](https://audits.sherlock.xyz/watson/farismaulana)
+[![](https://img.shields.io/badge/code4rena-blue)](https://code4rena.com/@farismaulana)
 [![](https://img.shields.io/badge/codehawk-red)](https://profiles.cyfrin.io/u/farismaulana)
 [![](https://img.shields.io/badge/cantina-69899c)](https://cantina.xyz/u/farismaulana)
 
