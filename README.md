@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+<img src="https://github.com/farismln/farismln/assets/profile.jpg" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=I+am+faris%2C+security+researcher" width="70%" />
+<br><br>
+<pre>
+    💼 Independent Security Researcher • Web3
+    💻 Solidity • Rust (WIP)
+    📖 Breaking Codes
+    🎮 Music • Games • Anime • Code • Repeat
+</pre>
+<br><br>
+<br><br><br>
+    
+[![](https://img.shields.io/badge/twitter-0a66c2)](https://x.com/0xfrsmln)
+[![](https://img.shields.io/badge/sherlock-8A2BE2)](https://audits.sherlock.xyz/watson/farismaulana)
+[![](https://img.shields.io/badge/code4rena-blue)](https://audits.sherlock.xyz/watson/farismaulana)
+[![](https://img.shields.io/badge/codehawk-red)](https://profiles.cyfrin.io/u/farismaulana)
+[![](https://img.shields.io/badge/cantina-69899c)](https://cantina.xyz/u/farismaulana)
+</div>
